@@ -24,7 +24,8 @@ git clone https://github.com/FransDani/bank-management-system.git
 
 ### Usage
 
-1. Run the compiled executable.//./bank_management_system
+1. Run the compiled executable.
+./bank_management_system
 2. Follow the menu prompts to perform different banking operations.
 3. Choose option `5` to exit the program.
 
